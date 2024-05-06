@@ -114,11 +114,11 @@ if(NUM_LOOPS>=10)    {
 
 ```
 ## OUTPUT
-$ ./sem.o 
+## $ ./sem.o 
 <img width="424" alt="image" src="https://github.com/srishanth2006/Linux-IPC-Semaphores/assets/150319470/54afea9a-3861-4f07-b8a2-165641daedaf">
 
 
-$ ipcs
+## $ ipcs
 <img width="305" alt="image" src="https://github.com/srishanth2006/Linux-IPC-Semaphores/assets/150319470/cd56e33e-ec34-42f1-94c8-da7669db0619">
 
 
